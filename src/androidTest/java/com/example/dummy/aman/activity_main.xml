@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.dummy.aman.MainActivity"
+    android:layout_marginTop="25dp">
+
+    <TextView
+        android:text=": Login For Order :"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textView"
+        android:layout_marginTop="100dp"
+        android:typeface="serif"
+        android:textColor="@android:color/background_dark" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/username"
+        android:hint="Username..."
+        android:layout_marginTop="25dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:layout_below="@+id/username"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/password"
+        android:hint="Password..."
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:text="Forget Password ?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/password"
+        android:layout_alignStart="@+id/password"
+        android:id="@+id/forget"
+        android:layout_marginTop="10dp"
+        android:textColor="@android:color/background_dark"
+        android:clickable="true"
+        android:contextClickable="true" />
+
+    <Button
+        android:text="Login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/login"
+        android:layout_below="@+id/forget"
+        android:layout_marginTop="25dp"
+        android:typeface="serif"
+        android:textStyle="normal|bold"
+        android:layout_alignStart="@+id/forget"
+        android:layout_alignEnd="@+id/password" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_height="65sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:id="@+id/imageView3"
+        android:layout_below="@+id/imageView2"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
