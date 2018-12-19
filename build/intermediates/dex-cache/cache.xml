@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_380d84dd97cd4410255f157663e2d5a465dc6b04\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_acb301fe71010a9c31b505ca4928acb44dd2d4b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_380d84dd97cd4410255f157663e2d5a465dc6b04.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_acb301fe71010a9c31b505ca4928acb44dd2d4b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_011d4682ea15875ad46358f1177e86b3a65b6a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_65a7760277efdcd7833bd456b8e6127659504c7c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\build\libs\itextpdf-5.5.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b7f922b3aeb46d5b23a108430042f371616e768">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\2\itextpdf-5.5.10_532f08b01cd44445ef3ff869346e65b10f50420b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_330f5af7232110adb94ef7697ad3c437d9c0a9b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_1c687e349e614c194521076a24fed03563d2175d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_330f5af7232110adb94ef7697ad3c437d9c0a9b6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_6d4f2507f7c823323ff3189b1250758b86715289\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_6d4f2507f7c823323ff3189b1250758b86715289.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_8f5529a1a7661c6603b857ea07ba8cd318b79945\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_4a708861ef8906c7ef09fa3d49b9ec17cccc9f81.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_4a708861ef8906c7ef09fa3d49b9ec17cccc9f81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_58d50f4e6e62f3a234c1765a083f56e35ae87171\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_58d50f4e6e62f3a234c1765a083f56e35ae87171.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_172a115b709e0bea64e563064b0382cb8b9b16e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_aa97e9319e80cb06af448c32944ed557cf44e9ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a6784a5b4f882c32061408d276bd52327b740446">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_405925a4fb6934f69a28dd2e07555fd3d17be630\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_aa97e9319e80cb06af448c32944ed557cf44e9ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_172a115b709e0bea64e563064b0382cb8b9b16e0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_1c687e349e614c194521076a24fed03563d2175d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\build\libs\itextpdf-5.5.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b7f922b3aeb46d5b23a108430042f371616e768">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\itextpdf-5.5.10_532f08b01cd44445ef3ff869346e65b10f50420b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_65a7760277efdcd7833bd456b8e6127659504c7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_4896914d2bfdffa323319a0e874f9428eb046732.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_4896914d2bfdffa323319a0e874f9428eb046732\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c1bf54219215810eeaaf9050df52ae6b4d32c98">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5299eec2488cb3e952996fb59c4c179fcfbe358c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_647e19a7d158c4e4e8e48275ebd589be661d950c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_011d4682ea15875ad46358f1177e86b3a65b6a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_647e19a7d158c4e4e8e48275ebd589be661d950c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Dummy\AndroidStudioProjects\Aman\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_8f5529a1a7661c6603b857ea07ba8cd318b79945.jar" />
+    </item>
+
+</items>
