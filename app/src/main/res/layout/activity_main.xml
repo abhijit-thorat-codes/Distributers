@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.dummy.aman.MainActivity"
+    android:background="#ffffff"
+>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/aman"
+        android:id="@+id/imageView2"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp" />
+
+    <TextView
+        android:text="Aman Distributers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textView2"
+        android:textSize="24sp"
+        android:typeface="serif"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="50dp"
+        android:id="@+id/linearLayout">
+
+        <EditText
+            android:id="@+id/etUser"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:hint="Username"
+            android:textColorHint="#cccccc"
+            android:drawableLeft="@drawable/user_icon"
+            android:drawablePadding="5dp"
+            android:inputType="textPersonName"
+            android:lines="1"
+            android:textColorLink="?attr/colorPrimaryDark" />
+
+        <EditText
+            android:id="@+id/etPass"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:padding="10dp"
+            android:hint="Password"
+            android:textColorHint="#cccccc"
+            android:password="true"
+            android:drawableLeft="@drawable/pass_icon"
+            android:drawablePadding="5dp"
+            android:inputType="text"
+            android:lines="1"
+            android:textColorLink="?attr/colorPrimaryDark" />
+        <Button
+            android:id="@+id/login"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Log In"
+            android:background="@drawable/button_default_bg"
+            android:layout_marginTop="30dp"
+            android:padding="10dp"
+            android:textSize="20dp"
+            android:typeface="serif" />
+
+    </LinearLayout>
+
+    <TextView
+        android:text="Need Help About Login !"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/help"
+        android:layout_marginTop="10dp"
+        android:typeface="normal"
+        android:clickable="true"
+        android:textColorLink="?attr/actionModeSplitBackground"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark" />
+
+
+</RelativeLayout>
+

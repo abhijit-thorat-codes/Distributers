@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aman Distributers</string>
+    <string name="item1">\u20B9 10.00</string>
+    <string name="item2">\u20B9 17.00</string>
+    <string name="item3">\u20B9 20.00</string>
+    <string name="item4">\u20B9 28.00</string>
+    <string name="item5">\u20B9 30.00</string>
+    <string name="item6">\u20B9 40.00</string>
+
+    <string name="sp1">\u20B9 09.70</string>
+    <string name="sp2">\u20B9 16.15</string>
+    <string name="sp3">\u20B9 19.40</string>
+    <string name="sp4">\u20B9 26.60</string>
+    <string name="sp5">\u20B9 29.10</string>
+    <string name="sp6">\u20B9 38.80</string>
+</resources>
